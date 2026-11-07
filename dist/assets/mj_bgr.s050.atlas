@@ -1,0 +1,12 @@
+mj_bgr.s050.png
+size:1349,1157
+filter:Linear,Linear
+pma:true
+images/base_bgr
+bounds:2,435,1280,720
+images/clouds
+bounds:2,2,1276,431
+offsets:0,0,1279,431
+images/sparkle1
+bounds:1280,366,67,67
+offsets:2,2,71,71
